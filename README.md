@@ -1,5 +1,7 @@
+
 # Resumo do Lab - Computação em Nuvem (DIO)
 
+## MOD I
 Este repositório contém um resumo das principais lições aprendidas durante o lab sobre Computação em Nuvem na plataforma Digital Innovation One (DIO).
 
 ## 📚 Tópicos Abordados
@@ -28,6 +30,29 @@ Segui o passo a passo para criar uma conta gratuita na Microsoft Azure.
 Isso me permitirá explorar os serviços da nuvem de forma prática e realizar testes reais com os recursos disponíveis na plataforma.
 
 ---
-
+## MOD II
 🚀 **Resumo geral:** Este módulo me proporcionou uma base sólida sobre computação em nuvem, preparando-me para usar serviços como o Azure de forma consciente e estratégica.
+
+# Benefícios da Nuvem Azure
+
+## Escalabilidade e Elasticidade
+- **Escalabilidade:** Capacidade de aumentar ou diminuir recursos conforme a demanda, garantindo performance sem desperdício de recursos.
+- **Elasticidade:** Ajustes automáticos de capacidade de acordo com o uso, otimizando o custo e a eficiência operacional.
+
+## Confiabilidade, Previsibilidade e Segurança
+- **Confiabilidade:** Alta disponibilidade e tolerância a falhas com datacenters redundantes.
+- **Previsibilidade:** Monitoramento contínuo e métricas que permitem planejamento e controle de recursos.
+- **Segurança:** Proteção avançada com criptografia, controle de acesso, compliance com normas internacionais e atualizações automáticas.
+
+## Governança e Gerenciabilidade
+- **Governança:** Definição de políticas, regras e conformidades para uso adequado dos recursos.
+- **Gerenciabilidade:** Ferramentas de monitoramento, automação e relatórios para facilitar a administração da nuvem.
+
+## Revisão Geral
+- A Nuvem Azure oferece um ambiente flexível, seguro, e confiável com ferramentas robustas para escalar, proteger e administrar recursos de TI com eficiência.
+- Ideal para empresas de todos os tamanhos que buscam inovação com controle de custos.
+
+## Questionário: Benefícios da Nuvem
+- Teste de conhecimento para fixação dos conceitos aprendidos sobre os benefícios da nuvem Azure.
+
 
